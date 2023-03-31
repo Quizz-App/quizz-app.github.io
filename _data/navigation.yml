@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "Download QuizzApp"
+  - title: "Cobain Sekarang!"
+    url: https://quizapp-2023.web.app/#/
+  - title: "Download QuizApp"
     url: https://play.google.com/store/apps/details?id=com.quizapp.quizapp&hl=in&gl=US
-  - title: "About"
+  - title: "Tentang Kami"
     url: /about
   # - title: "Sample Posts"
   #   url: /year-archive/
