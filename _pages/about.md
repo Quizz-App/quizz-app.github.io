@@ -1,6 +1,7 @@
 ---
 title: Tentang Kami
 toc: true
+permalink: /about/
 ---
 
 QuizApp adalah sebuah aplikasi mobile dan web yang dirancang untuk menguji pengetahuan dan ketrampilan dalam berbagai topik seperti persiapan ujian SBPTN, SNPTN, UKAI, TOEFL, CPNS dan lain-lain. Aplikasi ini memudahkan penggunanya dalam melatih soal dengan menyediakan berbagai sumber soal yang dapat dimasukkan ke dalam aplikasi dan langsung dapat dilatih.
