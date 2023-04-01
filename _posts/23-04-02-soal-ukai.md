@@ -2,9 +2,6 @@
 title: "Latihan Soal UKAI Terbaru di Aplikasi QuizApp"
 show_date: true
 toc: true
-header:
-  image: https://live.staticflickr.com/8084/8396909762_813a2b1829_h.jpg
-  
 tags:
   - bikin soal sendiri
   - publik
