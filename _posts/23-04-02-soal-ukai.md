@@ -12,7 +12,7 @@ tags:
 ---
 
 
-![image-center](https://ibb.co/S05yFvx){: .align-center}
+![image-center](https://i.ibb.co/L6YRVpP/ukai.png){: .align-center}
 
 Apakah Anda seorang apoteker yang ingin menguji keterampilan dan pengetahuan Anda? Jika iya, maka Anda perlu mencoba fitur latihan soal terbaru di aplikasi QuizApp, yaitu Uji Kompetensi Apoteker Indonesia.
 
